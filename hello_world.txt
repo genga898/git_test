@@ -1,0 +1,1 @@
+Hello my name is Emmanuel and this is my first Git commit project and I'm learning a lot of things from The Odin Project
